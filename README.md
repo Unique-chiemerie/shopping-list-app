@@ -1,6 +1,6 @@
-# udemy3
+# udemy list app
 
-A new Flutter project.
+a shopping list app
 
 ## Getting Started
 
